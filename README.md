@@ -4,7 +4,7 @@
 
 
 Login admin:  
-Email : admin@laundryxyz.com  
+Email : admin@admin.com  
 Pass : admin123
 
 ## Instalasi
